@@ -13,8 +13,7 @@ int main() {
             cout << -1;
             return 0;
         }
-        else ans = a[i];
     }
-    cout << ans;
+    cout << mn;
     return 0;
 }
